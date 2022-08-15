@@ -79,3 +79,15 @@ https://user-images.githubusercontent.com/987204/127598333-8d5c64fd-2e41-4899-95
 For prospective students looking for advisors, remember that your email is a WRITING SAMPLE. If your email is not clear or has lots of errors, it could actually hurt your case. Revise the emails before you send them.
 
 https://user-images.githubusercontent.com/987204/127598384-c4f1fc83-e479-4b74-9f6a-1afaa4e70e83.mp4
+  
+  
+
+ # [Template Link](https://docs.google.com/document/d/1BJlPxCP92JX65_sgT_OUlti0n7-HJ1lYHalJDIQx18s/edit?usp=sharing)
+
+ 
+  
+ # References
+  * https://scholarleen.com/subject-line-tips-for-first-email-to-professor/
+  * https://www.quora.com/What-can-be-a-better-subject-line-when-mailing-to-a-professor-I-am-interested-to-PhD
+  * https://ugr.ue.ucsc.edu/email
+  * https://scholarshipscorner.website/how-to-email-a-professor/
