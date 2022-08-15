@@ -1,6 +1,7 @@
 # Writing Cold Emails
 
 [[Link to the original tweet](https://twitter.com/jbhuang0604/status/1420611695848869892)]
+[[Another reference](https://twitter.com/hgupta84/status/1437081893254701056)]
 
 Writing emails to a stranger could be daunting, but it's a great way to build connections, explore opportunities, and even advance your career.
 
