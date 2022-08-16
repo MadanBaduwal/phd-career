@@ -14,7 +14,23 @@
 3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
 
 # General paper formate
+## Abstract
+Summary of :
+* What was researched 
+* What the finding were
 
+## Introduction
+* Information about the field
+* Previous related research that led to this paper
+* Purpose of the research
+
+## Method
+
+## Result
+
+## Discussion
+
+## Conclusion
 
 
 # Step by step reading process
