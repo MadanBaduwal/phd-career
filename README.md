@@ -1,6 +1,7 @@
 
 1. [cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-2. [paper-writting](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
+2. [paper-reading]()
+3. [paper-writting](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 
 
 
