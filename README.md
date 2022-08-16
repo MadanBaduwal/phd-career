@@ -1,8 +1,10 @@
-# journals-and-conferences
 
 1. [cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 2. [paper-writting](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 
+
+
+# journals-and-conferences
 
 # References
 * https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
