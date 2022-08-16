@@ -7,4 +7,4 @@
 
 1. [arxiv](https://arxiv.org/list/cs.CV/new)
 2. [CVF](https://openaccess.thecvf.com/menu)
-3. 
+3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
