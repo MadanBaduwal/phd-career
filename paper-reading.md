@@ -82,3 +82,56 @@ care to choose coherent section and sub-section titles and
 to write concise and comprehensive abstracts. If a reviewer
 cannot understand the gist after one pass, the paper will
 likely be rejected; if a reader cannot understand the highlights of the paper after five minutes, the paper will likely never be read.
+
+## The second pass
+In the second pass, read the paper with greater care, but
+ignore details such as proofs. It helps to jot down the key
+points, or to make comments in the margins, as you read.
+
+1. Look carefully at the figures, diagrams and other illustrations in the paper. Pay special attention to graphs.
+Are the axes properly labeled? Are results shown with
+error bars, so that conclusions are statistically significant? Common mistakes like these will separate
+rushed, shoddy work from the truly excellent.
+2. Remember to mark relevant unread references for further reading (this is a good way to learn more about
+the background of the paper).
+
+The second pass should take up to an hour. After this
+pass, you should be able to grasp the content of the paper.
+You should be able to summarize the main thrust of the paper, with supporting evidence, to someone else. This level of
+detail is appropriate for a paper in which you are interested,
+but does not lie in your research speciality.
+Sometimes you won’t understand a paper even at the end
+of the second pass. This may be because the subject matter
+is new to you, with unfamiliar terminology and acronyms.
+Or the authors may use a proof or experimental technique
+that you don’t understand, so that the bulk of the paper is incomprehensible. The paper may be poorly written
+with unsubstantiated assertions and numerous forward references. Or it could just be that it’s late at night and you’re
+tired. You can now choose to: (a) set the paper aside, hoping
+you don’t need to understand the material to be successful
+in your career, (b) return to the paper later, perhaps after
+reading background material or (c) persevere and go on to
+the third pass.
+
+##  The third pass
+To fully understand a paper, particularly if you are reviewer, requires a third pass. The key to the third pass
+is to attempt to virtually re-implement the paper: that is,
+making the same assumptions as the authors, re-create the
+work. By comparing this re-creation with the actual paper,
+you can easily identify not only a paper’s innovations, but
+also its hidden failings and assumptions.
+This pass requires great attention to detail. You should
+identify and challenge every assumption in every statement.
+Moreover, you should think about how you yourself would
+present a particular idea. This comparison of the actual
+with the virtual lends a sharp insight into the proof and
+presentation techniques in the paper and you can very likely
+add this to your repertoire of tools. During this pass, you
+should also jot down ideas for future work.
+This pass can take about four or five hours for beginners,
+and about an hour for an experienced reader. At the end
+of this pass, you should be able to reconstruct the entire
+structure of the paper from memory, as well as be able to
+identify its strong and weak points. In particular, you should
+be able to pinpoint implicit assumptions, missing citations
+to relevant work, and potential issues with experimental or
+analytical techniques.
