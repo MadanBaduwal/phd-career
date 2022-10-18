@@ -82,8 +82,34 @@ https://user-images.githubusercontent.com/987204/127598384-c4f1fc83-e479-4b74-9f
   
   
 
- # [Template Link](https://docs.google.com/document/d/1BJlPxCP92JX65_sgT_OUlti0n7-HJ1lYHalJDIQx18s/edit?usp=sharing)
 
+  ```
+  To: 
+
+ Prospective Ph.D. Student research Lab, 1 publication, 3 years of research experience
+
+Dear Prof.
+
+Greetings!!!. Hope you are doing well.
+
+My name is Madan Baduwal. I am currently working as a Sr.Computer Vision and Software Engineer at BP Eye Foundation. I completed my undergraduate in Computer Engineering from Tribhuvan University, Nepal in Oct 2019 with a merit scholarship and higher first-class. My major research project and paper was: “Signature Verification using Convolutional Neural Network and Autoencoder”. 
+
+After 3 years of industrial research experience in computer vision and machine learning problems. I am looking for a potential lab where I can escalate my research i.e computer vision and machine learning. I found your profile from people doing research in computer vision and machine learning from google scholar. After carefully going through your personal website and reading your research papers “” and “”. I see a very good match with my area of expertise and future career. More especially I would like to work on 3D object detection, Image super-resolution, and Human action recognition.
+ 
+I have attached my CV, paper, test score(TOEFL:101), and academic transcripts along with the email. I am truly hopeful and excited about an opportunity to work with you,
+Looking forward to hearing from you,
+ 
+Sincerely,
+Madan Baduwal
+ 
+Set time sender: 5am Us time(2:45 pm Nepal time)
+ 
+ 
+ 
+ 
+ 
+
+  ```
  
   
  # References
