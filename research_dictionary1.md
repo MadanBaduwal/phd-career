@@ -28,12 +28,17 @@
     "the Caplan family are a robust lot"
     
 9. Amended: make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances.
+
     "the rule was amended to apply only to non-members"
     
 10. Discovered: find unexpectedly or during a search.
+
     "firemen discovered a body in the debris"
     
-11. Entail: involve (something) as a necessary or inevitable part or consequence.
+11. Entail: **involve (something) as a necessary** or inevitable part or consequence.
+
     "a situation which entails considerable risks"
     
-12, 
+12. Substantially: to a great or significant extent.
+
+    "profits grew substantially"
