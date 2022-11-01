@@ -42,3 +42,42 @@
 12. Substantially: to a great or significant extent.
 
     "profits grew substantially"
+
+13. propelled: drive or push something forwards.
+
+    "the boat is propelled by using a very long paddle"
+
+14. advent: the arrival of a notable person or thing.
+
+    "the advent of television"
+
+15. subsequent: coming after something in time; following.
+
+    "the theory was developed subsequent to the earthquake of 1906"
+
+16. Inclusive: including all the services or items normally expected or required.
+
+
+    "menus stating fully inclusive prices"
+    
+17. Impactful: having a major impact or effect.
+
+    "an eye-catching and impactful design"
+    
+18. disparity: a great difference.
+
+    "economic disparities between different regions of the country"
+    
+19. breakthroughs: a sudden, dramatic, and important discovery or development.
+
+    "a major breakthrough in DNA research"
+
+20. disproportionately: to an extent that is too large or too small in comparison with something else.
+
+    "a tax cut would disproportionately benefit the rich"
+21. gravity: extreme importance; seriousness.
+
+    "crimes of the utmost gravity"
+22. 
+
+
