@@ -78,6 +78,10 @@
 21. gravity: extreme importance; seriousness.
 
     "crimes of the utmost gravity"
-22. 
+    
+22. wither: (of a plant) become dry and shrivelled.
+
+    "the grass had withered to an unappealing brown"
+23. 
 
 
