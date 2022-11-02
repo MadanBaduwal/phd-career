@@ -82,6 +82,28 @@
 22. wither: (of a plant) become dry and shrivelled.
 
     "the grass had withered to an unappealing brown"
-23. 
+23. collegiate: belonging or relating to a college or its students.
 
+    "collegiate life"
+    
+24. humanitarian: concerned with or seeking to promote human welfare.
+
+    "groups sending humanitarian aid"
+    
+25. tremendous: very great in amount, scale, or intensity.
+
+    "Penny put in a tremendous amount of time"
+    
+26. contend: struggle to surmount (a difficulty).
+
+    "she had to contend with his uncertain temper"
+    
+27. personnel: people employed in an organization or engaged in an organized undertaking such as military service.
+
+    "many of the personnel involved require training"
+28. unmanned: not having or needing a crew or staff.
+
+    "an unmanned level crossing"
+    
+29. 
 
