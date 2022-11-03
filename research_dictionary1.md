@@ -105,5 +105,25 @@
 
     "an unmanned level crossing"
     
-29. 
+29. leaps: jump or spring a long way, to a great height, or with great force.
 
+    "he leapt on to the parapet"
+    
+30. bound: walk or run with leaping strides.
+
+    "Louis came bounding down the stairs"
+
+31. Cusp: a point of transition between two different states.
+
+    "those on the cusp of adulthood"
+    
+32. remarkable: 
+
+34. constraint: a limitation or restriction.
+
+    "time constraints make it impossible to do everything"
+    
+35. unconstrained:  not restricted or limited.
+
+    "unconstrained growth"
+36. 
