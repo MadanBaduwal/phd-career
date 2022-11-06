@@ -126,4 +126,7 @@
 35. unconstrained:  not restricted or limited.
 
     "unconstrained growth"
-36. 
+36. acquainted:
+37. diligent:
+38. adroit:
+39. 
