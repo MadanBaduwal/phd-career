@@ -129,4 +129,4 @@
 36. acquainted:
 37. diligent:
 38. adroit:
-39. 
+39. Pedagogy: 
