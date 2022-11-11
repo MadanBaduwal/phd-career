@@ -146,3 +146,6 @@
 41. nevertheless: in spite of that; notwithstanding; all the same.
 
     "statements which, although literally true, are nevertheless misleading"
+    
+42. backed up: If traffic is backed up, the vehicles have to wait in a long line because there are too many of them: The traffic is backed up for six miles on the road to the coast. On the road: traffic jams. back.
+43. 
