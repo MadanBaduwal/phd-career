@@ -126,7 +126,23 @@
 35. unconstrained:  not restricted or limited.
 
     "unconstrained growth"
-36. acquainted:
-37. diligent:
-38. adroit:
-39. Pedagogy: 
+36. acquainted: make someone aware of or familiar with.
+
+    "new staff should be acquainted with fire exit routes"
+37. diligent: having or showing care and conscientiousness in one's work or duties.
+
+    "after diligent searching, he found a parcel"
+    
+38. adroit: clever or skilful.
+
+    "he was adroit at tax avoidance"
+39. Pedagogy: the method and practice of teaching, especially as an academic subject or theoretical concept.
+
+    "the relationship between applied linguistics and language pedagogy"
+40. Moreover: as a further matter; besides.
+    
+    "moreover, statistics show that competition for places is growing"
+    
+41. nevertheless: in spite of that; notwithstanding; all the same.
+
+    "statements which, although literally true, are nevertheless misleading"
