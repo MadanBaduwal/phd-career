@@ -5,4 +5,6 @@
 2. [paper-writting](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 3. [Journals and Conferences](https://github.com/MadanBaduwal/phd-career/blob/main/journals-and-conferences.md)
 
+# References
+* [Awsome tips](https://github.com/jbhuang0604/awesome-tips)
 
